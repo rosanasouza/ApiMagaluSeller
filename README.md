@@ -1,0 +1,2 @@
+# ApiMagaluSeller
+Projeto LuisaCode
